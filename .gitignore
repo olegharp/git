@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/windows,aspnetcore,visualstudiocode
 
 File1
+File3
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
