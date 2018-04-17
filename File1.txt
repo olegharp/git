@@ -1,1 +1,2 @@
 Второй коммит для develop_continue
+Bc нова develop
