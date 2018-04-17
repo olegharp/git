@@ -1,5 +1,7 @@
-﻿Еще 
+﻿Изменения в masterИзменения в masterИзменения в masterИзменения в masterЕще 
+Еще 
 Изменения в develop
 Изменения в master
+Изменения в masterИзменения в master
 Второй коммит для develop_continue
 Bc нова develop
