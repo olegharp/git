@@ -1,2 +1,5 @@
-Второй коммит для develop_continue
-Bc нова develop
+Р•С‰Рµ 
+
+РР·РјРµРЅРµРЅРёСЏ РІ master
+Р’С‚РѕСЂРѕР№ РєРѕРјРјРёС‚ РґР»СЏ develop_continue
+Bc РЅРѕРІР° develop
