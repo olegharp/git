@@ -1,4 +1,5 @@
-﻿Еще 
+﻿Финальные изменения в develop
+Еще 
 Изменения в develop
 Изменения в master
 Второй коммит для develop_continue
